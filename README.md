@@ -1,6 +1,6 @@
 # ML Lectures
 This repository will contain my ML Class slides & other resources
-* [Spring 2024]
+* [Spring 2026]
 
 
 Instructor: Prof. Prasanna Christodoss 
